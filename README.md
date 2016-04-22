@@ -10,7 +10,7 @@ Image directive to show image or hide image or replace image with other image de
     default-image   - image to show when actual-image url not working 
                       if not specified then element will be removed from DOM;
     min-image-width - if not specified then will allow any size image
-                      without 'px';
+                      value should be without 'px';
 
     HTML Syntax:
     <div checkbackground default-image="static_link" actual-image="dynamic_link" min-image-width="100"></div>
@@ -23,7 +23,7 @@ Image directive to show image or hide image or replace image with other image de
     default-image   - image to show when actual-image url not working 
                       if not specified then element will be removed from DOM;
     min-image-width - if not specified then will allow any size image
-                      without 'px';
+                      value should be without 'px';
 
     How to use:
     <img checksrc default-image="static_link" actual-image="dynamic_link" min-image-width="100" />

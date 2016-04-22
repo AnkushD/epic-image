@@ -1,6 +1,10 @@
 # epic-imge
-Image directive to show image or hide image or replace image with other image depending on width / height specified. 
+This is a image directive to handle broken images (image broken link).
+Depending on what options you provide, broken image
+ - will be removed
+ - will be replaced with default image
 
+If the image is not broken and width / height is specified, even then above actions can be taken.
 
 ## Usage:
 ### Image as a background

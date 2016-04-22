@@ -6,6 +6,27 @@ Depending on what options you provide, broken image
  - will be replaced with default image
 
 If the image is not broken and width / height is specified, even then above actions can be taken.
+<br />
+<br />
+
+##Installation
+<ol>
+  <li>
+    Include the directive in your code
+    <ol>
+     <li>Download <a href="https://github.com/vitalets/checklist-model/releases">latest release</a> <em>or</em></li>
+     <li>Use bower <code>bower install epic-image</code> <em>or</em></li>
+     <li>Install from npm <code>npm install epic-image</code></li>
+    </ol>
+  </li>
+  <li>If your JavaScript file is not generated from dependencies,<br /> then you must include it in your HTML <code>&lt;script src='epic-image.js'&gt;&lt;/script&gt;</code> </li>
+  <li>Add to app dependencies:</li>
+</ol>
+```javascript
+ var app = angular.module("app", ["epic-image"]);
+```
+<br />
+
 
 ## Usage:
 ### Image as a background

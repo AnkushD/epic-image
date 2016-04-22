@@ -1,4 +1,4 @@
-
+'use strict';
 angular.module('epic-image', [])
  .directive('checkbackground', ['$http','$q', function($http,$q) {
     

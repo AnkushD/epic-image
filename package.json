@@ -1,0 +1,19 @@
+{
+  "name": "epic-image",
+  "version": "0.1.0",
+  "description": "AngularJs directive to handle broken image",
+  "main": "epic-image.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnkushD/epic-image.git"
+  },
+  "author": "Ankush Deshmukh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AnkushD/epic-image/issues"
+  },
+  "homepage": "https://github.com/AnkushD/epic-image#readme"
+}

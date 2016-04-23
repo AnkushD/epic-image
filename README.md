@@ -14,7 +14,6 @@ If the image is not broken and width / height is specified, even then above acti
   <li>
     Include the directive in your code
     <ol>
-     <li>Download <a href="https://github.com/vitalets/checklist-model/releases">latest release</a> <em>or</em></li>
      <li>Use bower <code>bower install epic-image</code> <em>or</em></li>
      <li>Install from npm <code>npm install epic-image</code></li>
     </ol>
